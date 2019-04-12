@@ -34,6 +34,8 @@ Hello, Git! I am 吕蒙.(到此一游 0.0）
 
 Hello,Git! I am Jin Huilin
 
+Hello,Git! I am 寸子玄
+
 Hello, Git! I am chenweiwen
 
 Hello, Git! I am 郑雅洪. = =
