@@ -14,6 +14,10 @@ Hello Git!I am 徐博润.（奥利给！）
 
 Hello Git!I am 杜江峰.(Not gay)
 
+Hello, Git! I am 聂安然(Annie0405).
+
+Hello,Git! I am 周纪咏.
+
 Hello, Git! I am 聂安然(Annie0405)
 
 Hello,Git! I am 卜一珂(FB1106)
