@@ -1,4 +1,4 @@
-# HelloGit
+
 This is a repository for you  to be familiar with some basic operation of Git and Github!
 Please add a new line to this readme.md file in the following format
 
@@ -17,3 +17,31 @@ Hello Git!I am 杜江峰.(Not gay)
 Hello, Git! I am 聂安然(Annie0405).
 
 Hello,Git! I am 周纪咏.
+
+Hello, Git! I am 聂安然(Annie0405)
+
+Hello,Git! I am 卜一珂(FB1106)
+
+Hello, Git! I am 张爽
+
+Hello, Git! I am 李文武
+
+Hello, Git! I am 吴千阳
+
+Hello,Git! I am 张林元齐(Silence)
+
+hello,Git! I am 姜坤宇
+
+Hello, Git! I am 张国良. (hhhhhhhhhhhhhhhh)
+
+Hello, Git! I am 吕蒙.(到此一游 0.0）
+
+Hello,Git! I am Jin Huilin
+
+Hello,Git! I am 寸子玄
+
+Hello, Git! I am chenweiwen
+
+Hello, Git! I am 郑雅洪. = =
+
+Hello，Git！I am 李肇绪
